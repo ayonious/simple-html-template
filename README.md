@@ -7,8 +7,7 @@
 1. Tags
 2. Styles
 3. Js
-4. Headline
-5. Comments
+4. Comments
 
 # 🏃‍♂️ Running Instruction
 
