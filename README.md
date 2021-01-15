@@ -14,6 +14,6 @@
 
 Drag and drop the docs/index.html file in your browser
 
-# 🔍 See deployed
+# 🚀 See deployed
 
-![GithubPages](https://ayonious.github.io/simple-html-template/)
+[![GithubPages]](https://ayonious.github.io/simple-html-template/)
